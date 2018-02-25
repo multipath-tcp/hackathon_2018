@@ -6,3 +6,7 @@ This page contains projects created in the [MPTCP](http://multipath-tcp.org "MPT
 
 Our goal was to create a video server and [player](https://github.com/below/MPTCPVideoStreamer "https://github.com/below/MPTCPVideoStreamer") to test if a scheduler can adapt the bitrate for the video
 
+## Web Browser Brave
+https://github.com/multipath-tcp/hackathon_2018/tree/master/brave_ios_mptcp
+
+
